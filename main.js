@@ -4,3 +4,5 @@
 
  const app = new Todo();
  app.init();
+
+ console.log("I'm update");
